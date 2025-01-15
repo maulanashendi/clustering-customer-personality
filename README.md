@@ -90,7 +90,3 @@ Using a guesstimate method to evaluate potential ROI improvements:
 - NumPy
 - Scikit-learn
 - Matplotlib/Seaborn
-
-## License
-
-This project is licensed under the MIT License. For more details, refer to the LICENSE file.
